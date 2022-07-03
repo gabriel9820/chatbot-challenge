@@ -43,6 +43,7 @@ The project in question is a proposed challenge for the chatbot developer opport
 ## :computer: Demonstration
 
 [LoraBot](https://gabriel-lemos-alves-31j78.chat.blip.ai/?appKey=ZGVzYWZpb2NoYXRib3QzOmEwNDJlOTNmLTljODgtNGVkNC05NGY2LTU1NWQxYjMyYjUwMQ==)
+[API](https://chatbot-challenge-api.herokuapp.com/api/repositories)
 
 <br />
 
